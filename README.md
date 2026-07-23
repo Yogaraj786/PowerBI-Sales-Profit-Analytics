@@ -47,19 +47,31 @@ DIVIDE(
     0
 )
 ```
+Dashboard Preview
 
-        
-├── Data/
-│   └── Raw_Sales_Data.xlsx      # Source data file
-├── Reports/
-│   └── Sales_Analytics.pbix     # Main Power BI Desktop file
-├── Screenshots/
-│   ├── Dashboard_Overview.png   # Main report page
-│   ├── DrillThrough_View.png    # Salesperson drill-through page
-│   └── Navigation_Bookmarks.png # Interactive view toggles
-└── README.md                    # Documentation
+Add screenshots of your dashboard inside the Images folder and update this section.
 
+Example:
 
-**Author**
-Yogaraj M
-Program Analyst | SQL Developer | Aspiring Data Analyst
+Images/Dashboard.png
+📌 Business Insights
+Identified top-performing products and categories.
+Analyzed sales and profit trends over time.
+Compared regional sales performance.
+Evaluated customer purchasing behavior.
+Monitored key business KPIs for decision-making.
+🎯 Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+Power BI Dashboard Development
+Power Query ETL Process
+DAX Calculations
+Data Visualization Best Practices
+Business Analytics
+Report Optimization
+Interactive Reporting
+
+   Author
+  Yogaraj M
+  Program Analyst | SQL Developer | Aspiring Data Analyst
